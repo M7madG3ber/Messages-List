@@ -10,6 +10,7 @@ var addItemsAction = document.querySelector(".addItems-action");
 var addItemsInput = document.querySelector(".addItems-input");
 var addItemsSubmit = document.querySelector(".addItems-submit");
 
+
 // elements display
 var displayItemsAction = document.querySelector(".displayItems-action");
 var messagesList = document.querySelector(".messages-list");
